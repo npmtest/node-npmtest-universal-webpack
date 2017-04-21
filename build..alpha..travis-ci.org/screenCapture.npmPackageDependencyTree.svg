@@ -1,0 +1,31 @@
+<svg height="446" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="446" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">2 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├── UNMET PEER DEPENDENCY extract-text-webpack-plugin@^2.0.0-rc.3</tspan>
+<tspan x="10" y="90">├─┬ universal-webpack@0.3.9 </tspan>
+<tspan x="10" y="106">│ ├── colors@1.1.2 </tspan>
+<tspan x="10" y="122">│ ├─┬ fs-extra@0.30.0 </tspan>
+<tspan x="10" y="138">│ │ ├── graceful-fs@4.1.11 </tspan>
+<tspan x="10" y="154">│ │ ├── jsonfile@2.4.0 </tspan>
+<tspan x="10" y="170">│ │ ├── klaw@1.3.1 </tspan>
+<tspan x="10" y="186">│ │ ├── path-is-absolute@1.0.1 </tspan>
+<tspan x="10" y="202">│ │ └─┬ rimraf@2.6.1 </tspan>
+<tspan x="10" y="218">│ │   └─┬ glob@7.1.1 </tspan>
+<tspan x="10" y="234">│ │     ├── fs.realpath@1.0.0 </tspan>
+<tspan x="10" y="250">│ │     ├─┬ inflight@1.0.6 </tspan>
+<tspan x="10" y="266">│ │     │ └── wrappy@1.0.2 </tspan>
+<tspan x="10" y="282">│ │     ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="298">│ │     ├─┬ minimatch@3.0.3 </tspan>
+<tspan x="10" y="314">│ │     │ └─┬ brace-expansion@1.1.7 </tspan>
+<tspan x="10" y="330">│ │     │   ├── balanced-match@0.4.2 </tspan>
+<tspan x="10" y="346">│ │     │   └── concat-map@0.0.1 </tspan>
+<tspan x="10" y="362">│ │     └── once@1.4.0 </tspan>
+<tspan x="10" y="378">│ ├── minimist@1.2.0 </tspan>
+<tspan x="10" y="394">│ └─┬ validate-npm-package-name@2.2.2 </tspan>
+<tspan x="10" y="410">│   └── builtins@0.0.7 </tspan>
+<tspan x="10" y="426">└── UNMET PEER DEPENDENCY webpack@*</tspan>
+</text>
+</svg>
